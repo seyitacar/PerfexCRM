@@ -1517,7 +1517,7 @@ $lang['more']            = 'Daha';
 $lang['add_item']        = 'Ürün/Hizmet Ekle';
 $lang['goto_admin_area'] = 'Yönetim Paneline Git';
 $lang['delete']          = 'Sil %s';
-$lang['welcome_top']     = 'Hoşgeldiniz %s';
+$lang['welcome_top']     = 'Hoşgeldin %s';
 
 # Customers
 $lang['customer_permissions']         = 'İzinler';
